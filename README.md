@@ -1,3 +1,6 @@
+# TransMorph
+Implementation of TransMorph: A Transformer Based Morphological Disambiguator for Turkish
+
 # UnambiguousWordAnalysis Dataset
 In order to create an unambiguous data set the unambiguous sentences at Hürriyet News data set and BOUN Web corpus are combined .
 These two data sets are used to filter sentences that are composed of only unambiguous words. 
